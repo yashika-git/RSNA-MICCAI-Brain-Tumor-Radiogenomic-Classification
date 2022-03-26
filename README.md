@@ -2,5 +2,5 @@
 
 Competition Link: https://www.kaggle.com/c/rsna-miccai-brain-tumor-radiogenomic-classification  
 EfficientNet Weights: https://www.kaggle.com/datasets/yashikajain/effnetweights  
-EfficientNet3D: https://www.kaggle.com/datasets/yashikajain/effnets3d  
+EfficientNet3D: https://www.kaggle.com/datasets/hihunjin/efficientnetpyttorch3d   
 Kaggle Notebook: https://www.kaggle.com/yashikajain/efficientnet3d  
